@@ -69,9 +69,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <div align="left">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atharxva/atharxva/output/github-contribution-grid-snake.svg" />
+
   
   <br/><br/><br/>
 </div>
