@@ -41,7 +41,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <div align="left">
-  <h2>Skills & Languages:</h2>
+  <h2>My Skills & Languages:</h2>
 
 <h4>IDEs:</h4>
 <p>
