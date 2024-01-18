@@ -11,7 +11,7 @@
 
 <div align="center">
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
-    <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
+    <p><font color="blue">🚀 Coding Enthusiast exploring the world of programming</font></p>
 </div>
 
 
