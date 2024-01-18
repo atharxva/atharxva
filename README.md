@@ -21,7 +21,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-   <h2>Get in Touch</h2>
+   <h2>Get In Touch</h2>
   <p>
     </a>
     <a href="mailto:atharvajadhavlm10@gmail.com" target="_blank">
