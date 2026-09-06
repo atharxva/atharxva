@@ -1,77 +1,124 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Atharva+Jadhav!" />
-</h1>
+<h1 align="center">Atharva Jadhav</h1>
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=atharxva.atharxva" alt="Visitor Badge" />
+  Computer Science Engineer · AI/ML · Full-Stack Development
 </p>
 
-<h3 align="center" style="color:#3498db; font-weight: bold;">
-    Aspiring Computer Science Engineer | Code Lover | Football Player
-</h3>
-
-<p align="center" style="font-size: 18px; color: #2ecc71; font-weight: bold;">
-    👨‍💻 First-year B.Tech student at ITM Skills University | 🚀 Coding Enthusiast exploring the world of programming
+<p align="center">
+  <a href="mailto:atharvajadhavlm10@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/atharva-santosh-jadhav-885083252/">LinkedIn</a>
+  ·
+  <a href="https://github.com/atharxva">GitHub</a>
 </p>
 
----
-
-<h2>📬 Get In Touch</h2>
-<p>
-    <a href="mailto:atharvajadhavlm10@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-    </a>
-    <a href="https://www.linkedin.com/in/atharva-santosh-jadhav-885083252/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-    </a>
-    <a href="https://twitter.com/atharva28601316">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
-    </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharxva&style=flat&color=grey" />
 </p>
 
 ---
 
-<h2>🛠 My Skills & Languages</h2>
-<h4>💻 IDEs:</h4>
+## About
+
+I'm a B.Tech Computer Science student focused on building practical
+software and exploring **AI/ML, automation, and full-stack systems**.
+
+Currently learning and building with:
+
+- Python & C++
+- Machine Learning & PyTorch
+- React & Next.js
+- Node.js & FastAPI
+- APIs, automation & backend systems
+
+I enjoy building things, breaking them, and figuring out why they broke.
+
+---
+
+## Tech Stack
+
+### Languages
+
 <p>
-    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript&theme=dark" />
 </p>
 
-<h4>📝 Programming Languages:</h4>
+### AI / ML
+
 <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 </p>
 
-<h4>🔧 Version Control:</h4>
+`Scikit-learn` · `Pandas` · `NumPy` · `Transformers` · `LLMs`
+
+### Development
+
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&theme=dark" />
 </p>
 
-<h4>🚀 No-Code Tools:</h4>
+### Databases & Infrastructure
+
 <p>
-    <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" />
-    <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=wix&logoColor=black" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,aws&theme=dark" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-<h2>📊 Recent Activity</h2>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/?username=atharxva&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
-</p>
+## Experience
+
+### Winvesta
+**Software Development Intern**  
+`Sep 2025 — Dec 2025`
+
+Worked on web-based fintech systems, user onboarding and backend
+integrations.
+
+**Stack:** React · Node.js · Microservices · System Design
 
 ---
 
-<h2>🚀 GitHub Stats</h2>
-<p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharxva&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharxva&theme=solarized" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharxva&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharxva&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharxva&theme=solarized&utcOffset=5.3" />
-</p>
+### LetsUpgrade
+**Software Intern**  
+`May 2025 — Sep 2025`
+
+Built AI-powered automation and content-generation workflows using
+Python, n8n and external APIs.
+
+**Stack:** Python · n8n · AI Automation · APIs
 
 ---
+
+### Playbox TV
+**Intern**  
+`Jun 2024 — Sep 2024`
+
+Developed reusable React.js components and contributed to CMS
+development, reducing repetitive development work.
+
+**Stack:** React.js · CMS · Component Design
+
+---
+
+## Projects
+
+I'm currently building projects around:
+
+```text
+AI / ML
+├── Machine Learning
+├── Deep Learning
+├── LLM Applications
+└── Data & Automation
+
+Software
+├── Full-Stack Applications
+├── Backend Systems
+├── APIs
+└── Developer Tools
